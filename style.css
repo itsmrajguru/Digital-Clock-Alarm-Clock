@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  background-color: #ff7e5f;
+}
+
+h1 {
+  color: #333;
+}
+
+#time-display {
+  font-size: 3rem;
+  margin: 20px 0;
+  color: #222;
+}
+
+#alarm-section {
+  margin-top: 20px;
+}
+
+input, button {
+  padding: 5px 10px;
+  margin: 5px;
+}
+
+button {
+  cursor: pointer;
+}
+
+#alarm-status {
+  margin-top: 15px;
+  font-weight: bold;
+}
